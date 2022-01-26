@@ -12,4 +12,6 @@ _______________
 1. Выбираем нужный шилд:
 ![image](https://user-images.githubusercontent.com/60391056/151194525-e104de30-e9ec-4f00-8a47-66f74f2e579d.png)
 
-2. 
+2. При нажатии на него у нас появляется конструктор 
+![image](https://user-images.githubusercontent.com/60391056/151198295-710ba546-2ca1-45e0-9a4e-f15fda68036f.png)
+
