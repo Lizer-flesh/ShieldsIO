@@ -18,5 +18,5 @@ _______________
 **3. Вводим необходимые данные**
 ![image](https://user-images.githubusercontent.com/60391056/153894656-43cf845d-2847-4edc-a3d7-f13785f734f5.png)
 
-**4. Копируем ссылку и вставляем в свой README**
+**4. Копируем ссылку и вставляем в свой README в таком же формат**
 ![image](https://user-images.githubusercontent.com/60391056/153895847-0516dfc3-c372-4b03-989b-e967b737f0f3.png)
