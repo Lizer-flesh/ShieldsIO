@@ -15,3 +15,7 @@ _______________
 **2. При нажатии на него у нас появляется конструктор** 
 ![image](https://user-images.githubusercontent.com/60391056/151198295-710ba546-2ca1-45e0-9a4e-f15fda68036f.png)
 
+**3. Вводим необходимые данные**
+![image](https://user-images.githubusercontent.com/60391056/153894656-43cf845d-2847-4edc-a3d7-f13785f734f5.png)
+
+**4. Копируем ссылку и вставляем в свой README**
