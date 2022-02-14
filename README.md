@@ -5,7 +5,7 @@
 :sweat_drops:Для этого достаточно перейти на https://mopin.ru/ и в конструкторе создать нужный вам шилд.
 _______________
 
-## :question:Как это работает? 
+## :question: Как это работает? 
 
 Разберём на примере создания шилда с размером GitHub репозитория                 ![AppVeyor](https://mopin.ru:/github/repo-size/Lizer-flesh/LazerMachine?logo=S)
 
