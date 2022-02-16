@@ -3,11 +3,12 @@
 :v:Добавляйте в README шилды с нужной вам информацией.
 
 :sweat_drops:Для этого достаточно перейти на https://mopin.ru/ и в конструкторе создать нужный вам шилд.
+
 _______________
 
 ## :question: Как это работает? 
 
-Разберём на примере создания шилда с размером GitHub репозитория                 ![AppVeyor](https://mopin.ru:/github/repo-size/Lizer-flesh/LazerMachine?logo=S)
+Разберём на примере создания шилда с размером GitHub репозитория ![AppVeyor](https://mopin.ru:/github/repo-size/Lizer-flesh/LazerMachine?logo=S)
 
 
 
@@ -22,3 +23,8 @@ _______________
 
 **4. Копируем ссылку и вставляем в свой README в таком же формат**
 ![image](https://user-images.githubusercontent.com/60391056/153895847-0516dfc3-c372-4b03-989b-e967b737f0f3.png)
+
+__________________
+
+## :question: Как сделать шилд с версией юнити?
+
