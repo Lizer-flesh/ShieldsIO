@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  shieldsio-liza:
+    container_name: shieldsio-liza
+    image: lizerflesh2002/unity-version-shield:latest
+    restart: always
+    ports:
+      - "8085:80"
+#    networks:
+#      - shields-network
+
+networks:
+  shields-network:
+    external:
+     name: shields-network

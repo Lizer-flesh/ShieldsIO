@@ -11,13 +11,14 @@ namespace ShieldsIOUnityVersion.Controllers
     [Route("[controller]")]
     public class UnityVersionShieldController : ControllerBase
     {
-        [HttpGet]
-        public ActionResult<UnityVershionShield> Get(string gitOwner, string gitRepos, string pathToProjectVersion)
+        [HttpGet("getUnityVersion")]
+        public ActionResult<UnityVershionShield> Get(string token, string gitOwner, string gitRepos, string pathToProjectVersion)
         {
             var url = $"https://api.github.com/repos/{gitOwner}/{gitRepos}/contents/{pathToProjectVersion}"; //"https://api.github.com/repos/Lizer-flesh/LazerMachine/contents/ProjectSettings/ProjectVersion.txt"
             
             var request = WebRequest.Create(url);
             request.Headers.Add("User-Agent", "Liza");
+            request.Headers.Add("Authorization", $"token {token}");
 
             var response = request.GetResponse();
 
