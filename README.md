@@ -39,7 +39,7 @@ To set the default manual, click `Tools -> Tab Navigation -> Set Default All` or
 ## :question: How to use determiner?
 In order to use the determiner you must have the `Use Determiner Definition` checkbox checked :white_check_mark:
 
-If you have not yet selected a determiner, you will be prompted to use one. To do this, click on the `Use definition determiner (recommended)` button :point_up_2
+If you have not yet selected a determiner, you will be prompted to use one. To do this, click on the `Use definition determiner (recommended)` button :point_up_2:
 
 Add the `Tab Point Enabled Determiner Definition` script and choose the value you want from the drop-down list.
 __________________
